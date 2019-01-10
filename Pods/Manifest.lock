@@ -1,0 +1,20 @@
+PODS:
+  - UMCAnalytics (5.5.4):
+    - UMCCommon
+  - UMCCommon (1.5.3)
+
+DEPENDENCIES:
+  - UMCAnalytics
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - UMCAnalytics
+    - UMCCommon
+
+SPEC CHECKSUMS:
+  UMCAnalytics: 8449e33b7627ee26f1169202827a8d5a00b5442b
+  UMCCommon: 016af43c0f769feb1ae1861d65aaf2b23b89c9c7
+
+PODFILE CHECKSUM: 22bbf74bfabd562a91595803d80823429c5b9fa9
+
+COCOAPODS: 1.6.0.beta.2
